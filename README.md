@@ -1,5 +1,4 @@
-# babylonjs-ts-template
-a TypeScript exercise in Babylon.js
+# Danse (Understanding Babylon.js Animation)
+a TypeScript exercise to animate a curve in space using Babylon.js
 
-animation case study to create a curve in space
-
+Read more at https://medium.com/@reddotblues/bite-sized-learning-animation-in-babylon-js-cbf9bcf69331
